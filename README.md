@@ -1,16 +1,52 @@
-### Hi there 👋
+<div style="text-align: center">
+<img src="douglas.jpg" width="100px" style="border-radius: 50%">
+<br />
+<br />
+<h1>Hello World, I'm Douglas 👋</h1>
+<i>Sr Full-Stack Engineer at <b><a href="https://www.reliant.io/">Reliant</b></a></i>
 
-<!--
-**douglasgabriel/douglasgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<i>Campina Grande, Brazil</i>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/douglasggabriel">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:douglasgabriel@gmail.com?subject=Hello%20Douglas">
+<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+</div>
+
+### Personal projects
+<a href="https://www.kudos-app.com/">
+<img src="kudosapp.png" width="50px" align="left" />
+
+#### KudosApp
+A Slack app to help on teammates recognition
+
+</a>
+
+### Open source contributions
+<a href="https://www.manageiq.org/">
+<img src="manageiq.svg" width="50px" align="left" />
+
+#### ManageIQ
+Discover, Optimize, and Control your Hybrid IT
+
+</a>
+
+<a href="https://github.com/reactjs/pt-BR.reactjs.org/">
+<img src="react.png" width="50px" align="left" />
+
+#### React
+PT-BR documentation
+
+</a>
+
+<hr />
+
+<div style="text-align:center">
+
+[![Douglas' GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasgabriel&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
