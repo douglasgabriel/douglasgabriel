@@ -1,21 +1,23 @@
-<div style="text-align: center">
-<img src="douglas.jpg" width="100px" style="border-radius: 50%">
-<br />
-<br />
-<h1>Hello World, I'm Douglas 👋</h1>
-<i>Sr Full-Stack Engineer at <b><a href="https://www.reliant.io/">Reliant</b></a></i>
-
-<i>Campina Grande, Brazil</i>
-
-<a href="https://www.linkedin.com/in/douglasggabriel">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:douglasgabriel@gmail.com?subject=Hello%20Douglas">
-<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="center">
+  <img src="douglas.jpg" width="150px">
+</p>
+<h1 align="center">Hello World, I'm Douglas 👋</h1>
+<p align="center">
+  <i>Sr Full-Stack Engineer at <b><a href="https://www.reliant.io/">Reliant</b></a></i>
+</p>
+<p align="center">
+  <i>Campina Grande, Brazil</i>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/douglasggabriel">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:douglasgabriel@gmail.com?subject=Hello%20Douglas">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <hr />
-</div>
 
 ### Personal projects
 <a href="https://www.kudos-app.com/">
