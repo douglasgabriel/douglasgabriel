@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello World, I'm Douglas 👋</h1>
 <p align="center">
-  <i>Sr Full-Stack Engineer at <b><a href="https://www.reliant.io/">Reliant</b></a></i>
+  <i>Sr Full-Stack Engineer at <b><a href="https://www.vigil.global">Vigil</b></a></i>
 </p>
 <p align="center">
   <i>Campina Grande, Brazil</i>
