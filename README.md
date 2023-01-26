@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello World, I'm Douglas 👋</h1>
 <p align="center">
-  <i>Tech Leader @<b><a href="https://higlobe.com/">Higlobe</b></a></i>
+  <i>Tech Leader @ <b><a href="https://higlobe.com/">Higlobe</b></a></i>
 </p>
 <p align="center">
   <i>Campina Grande, Brazil</i>
