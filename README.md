@@ -20,7 +20,7 @@
 <hr />
 
 ### Personal projects
-<a href="https://www.kudos-app.com/">
+<a href="https://www.recognitions.app/">
 <img src="kudosapp.png" width="50px" align="left" />
 
 #### KudosApp
